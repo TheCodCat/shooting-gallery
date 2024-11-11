@@ -7,7 +7,6 @@ using UnityEngine;
 public abstract class Gun : MonoBehaviour
 {
     [SerializeField] protected Transform _firePoint;
-    [SerializeField] protected int _damage;
     [SerializeField] protected float _fireDistance;
     [SerializeField] protected float _timeSpan;
     [SerializeField] protected bool _isFire;
@@ -23,7 +22,7 @@ public abstract class Gun : MonoBehaviour
             Debug.DrawRay(ray.origin, ray.direction * hitInfo.distance, Color.red);
             if (hitInfo.collider.transform.parent.TryGetComponent(out IDamageble component))
             {
-                component.damage(_damage);
+                component.damage();
             }
         }
         IsFire().AsAsyncUnitUniTask();

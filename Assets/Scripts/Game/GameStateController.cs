@@ -1,13 +1,13 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.XR.Interaction.Toolkit;
+using UnityEngine.UI;
 
 public class GameStateController : MonoBehaviour
 { 
     public static event UnityAction<GameState> OnGameStateChanged;
     [SerializeField] private GameState _currentGameState;
+    [SerializeField] private ArchoryController _archoryController;
+    [SerializeField] private Button _restartButton;
 
     public void ChangeState(GameState gameState)
     {
@@ -20,6 +20,9 @@ public class GameStateController : MonoBehaviour
     }
     public void StopButton()
     {
+        if(_archoryController.currentLive != _archoryController.GetLiveCount()) return;
+
         OnGameStateChanged?.Invoke(GameState.Pause);
+        _restartButton.interactable = true;
     }
 }

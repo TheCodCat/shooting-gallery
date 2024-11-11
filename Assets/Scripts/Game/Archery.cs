@@ -5,7 +5,7 @@ using UnityEngine;
 public class Archery : MonoBehaviour, IDamageble
 {
     [SerializeField] private bool _isLive = true;
-    public void damage(int damage)
+    public void damage()
     {
         if (!_isLive) return; 
 
