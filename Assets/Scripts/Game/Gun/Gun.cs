@@ -19,13 +19,13 @@ public abstract class Gun : MonoBehaviour
 
         if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance))
         {
-            Debug.DrawRay(ray.origin, ray.direction * hitInfo.distance, Color.red);
-            if (hitInfo.collider.transform.parent.TryGetComponent(out IDamageble component))
+            if (hitInfo.collider.TryGetComponent(out IDamageble component))
             {
                 component.damage();
             }
         }
         IsFire().AsAsyncUnitUniTask();
+        Debug.DrawRay(ray.origin, ray.direction * hitInfo.distance, Color.red);
     }
     public abstract void Reload();
 
