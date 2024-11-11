@@ -43,6 +43,8 @@ public class Timer : MonoBehaviour
     }
     public async void EnableTimer()
     {
+        if(_isPlaying) return;
+
         while (_isPlaying)
         {
             Time += UnityEngine.Time.deltaTime;

@@ -1,7 +1,5 @@
 using Cysharp.Threading.Tasks;
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public abstract class Gun : MonoBehaviour
@@ -10,11 +8,13 @@ public abstract class Gun : MonoBehaviour
     [SerializeField] protected float _fireDistance;
     [SerializeField] protected float _timeSpan;
     [SerializeField] protected bool _isFire;
-
+    [Header("Партиклы")]
+    [SerializeField] protected ParticleSystem _particleSystem;
     public virtual void Fire()
     {
         if (!_isFire) return;
 
+        _particleSystem.Play();
         Ray ray = new Ray(_firePoint.position, _firePoint.forward);
 
         if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance))
