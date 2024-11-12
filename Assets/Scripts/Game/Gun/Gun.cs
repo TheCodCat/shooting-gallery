@@ -45,4 +45,19 @@ public abstract class Gun : MonoBehaviour
 
         _isFire = true;
     }
+
+        [SerializeField] private Rigidbody _rb;
+    [SerializeField] private Vector3 _centerOfMass;
+
+    private void OnValidate()
+    {
+#if UNITY_EDITOR_WIN
+        _rb.centerOfMass = _centerOfMass;
+#endif
+    }
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawSphere(transform.position + transform.rotation * _centerOfMass,0.05f);
+    }
 }
