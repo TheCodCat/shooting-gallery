@@ -14,6 +14,10 @@ public class Timer : MonoBehaviour
     {
         GameStateController.OnGameStateChanged += ChandeTimer;
     }
+    private void OnDisable()
+    {
+        GameStateController.OnGameStateChanged -= ChandeTimer;
+    }
     public float Time
     {
         get
@@ -43,8 +47,6 @@ public class Timer : MonoBehaviour
     }
     public async void EnableTimer()
     {
-        if(_isPlaying) return;
-
         while (_isPlaying)
         {
             Time += UnityEngine.Time.deltaTime;
