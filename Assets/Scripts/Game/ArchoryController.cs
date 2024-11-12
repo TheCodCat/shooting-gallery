@@ -10,11 +10,6 @@ public class ArchoryController : MonoBehaviour
     public static event UnityAction<int> OnChageArchoryLive;
     [SerializeField] private List<Archery> _archeries;
     [SerializeField] private int _currentLive;
-
-    private void Awake()
-    {
-        Instance = this;
-    }
     public int currentLive
     {
         get
@@ -26,6 +21,11 @@ public class ArchoryController : MonoBehaviour
             _currentLive = value;
             OnChageArchoryLive?.Invoke(value);
         }
+    }
+
+    private void Awake()
+    {
+        Instance = this;
     }
 
     public void ChangeLiveCount()

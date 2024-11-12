@@ -10,11 +10,16 @@ public abstract class Gun : MonoBehaviour
     [SerializeField] protected bool _isFire;
     [Header("Партиклы")]
     [SerializeField] protected ParticleSystem _particleSystem;
+    [SerializeField] protected AudioSource _audioSource;
     public virtual void Fire()
     {
         if (!_isFire) return;
 
         _particleSystem.Play();
+
+        _audioSource.pitch = UnityEngine.Random.Range(0.95f,1f);
+        _audioSource.Play();
+
         Ray ray = new Ray(_firePoint.position, _firePoint.forward);
 
         if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance))
@@ -27,7 +32,10 @@ public abstract class Gun : MonoBehaviour
         IsFire().AsAsyncUnitUniTask();
         Debug.DrawRay(ray.origin, ray.direction * hitInfo.distance, Color.red);
     }
-    public abstract void Reload();
+    public virtual void Reload()
+    {
+
+    }
 
     public async virtual UniTask IsFire()
     {

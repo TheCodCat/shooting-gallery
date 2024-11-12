@@ -4,7 +4,4 @@ using UnityEngine;
 
 public class M1911 : Gun
 {
-    public override void Reload()
-    {
-    }
 }
