@@ -3486,6 +3486,90 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1391623625}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1470160247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1470160248}
+  - component: {fileID: 1470160250}
+  - component: {fileID: 1470160249}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1470160248
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470160247}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1630906932}
+  m_Father: {fileID: 3870874130456083526}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &1470160249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470160247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1470160250
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1470160247}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!1001 &1508065219
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3802,6 +3886,81 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1597997683}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1630906931
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1630906932}
+  - component: {fileID: 1630906934}
+  - component: {fileID: 1630906933}
+  m_Layer: 0
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1630906932
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630906931}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1470160248}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1630906933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630906931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1630906934
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630906931}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1719682773
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4162,6 +4321,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1789633168}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1812954391 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+    type: 3}
+  m_PrefabInstance: {fileID: 3870874130456083523}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870874130456083524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bf296fc962d7184ab14ad1841598d5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1813368420
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4775,10 +4946,373 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_MoveSpeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RightHandMoveAction.m_Reference
+      value: 
+      objectReference: {fileID: -8198699208435500284, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RightHandMoveAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1392835121119627238, guid: 48d78ccbd3be61f49b594a5c55d07db4,
         type: 3}
       propertyPath: m_Name
       value: XR Origin (XR Rig)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Reference
+      value: 
+      objectReference: {fileID: 187161793506945269, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Reference
+      value: 
+      objectReference: {fileID: 3279264004350380116, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Reference
+      value: 
+      objectReference: {fileID: 83097790271614945, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_Reference
+      value: 
+      objectReference: {fileID: -3326005586356538449, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_Reference
+      value: 
+      objectReference: {fileID: 5101698808175986029, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_Reference
+      value: 
+      objectReference: {fileID: -6756787485274679044, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Reference
+      value: 
+      objectReference: {fileID: -7044516463258014562, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_Reference
+      value: 
+      objectReference: {fileID: -6447266317303757838, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_Action.m_Id
+      value: a6c0ac1e-4065-4abc-ac84-e81172fbfdd4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_Reference
+      value: 
+      objectReference: {fileID: -2524354804938687746, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Reference
+      value: 
+      objectReference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_Reference
+      value: 
+      objectReference: {fileID: -8222252007134549311, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_Reference
+      value: 
+      objectReference: {fileID: -5913262927076077117, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_Action.m_Id
+      value: 693cabdd-8776-492d-8641-2f6adc511d4c
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Reference
+      value: 
+      objectReference: {fileID: -5908353012961274365, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Reference
+      value: 
+      objectReference: {fileID: 7904272356298805229, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_Action.m_Id
+      value: 0ec63ab1-52db-4370-be3a-274ee310dae9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Action.m_Id
+      value: 6b1e5826-d74e-452e-ab31-5d6eae6f407e
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_Reference
+      value: 
+      objectReference: {fileID: -1277054153949319361, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_Action.m_Id
+      value: 59ea1b94-e9f8-4049-ab97-5920b11143a5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Action.m_Id
+      value: bf4ab5bd-3648-4de6-a1f6-8e879b2612c2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Action.m_Id
+      value: 98d3d870-d1c9-4fbe-9790-8d0c2cb9ffc0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Action.m_Name
+      value: Select Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_Action.m_Id
+      value: 008dba4e-870a-43fb-9a1f-1a7bc3ecec0c
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_Reference
+      value: 
+      objectReference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Action.m_Name
+      value: UI Press Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Action.m_Name
+      value: Activate Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_Action.m_Id
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_Action.m_Name
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_Reference
+      value: 
+      objectReference: {fileID: -440298646266941818, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_Action.m_Id
+      value: 72b93609-c58e-411b-a958-c221860f8269
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3434528599913875024, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Action.m_ExpectedControlType
+      value: Button
       objectReference: {fileID: 0}
     - target: {fileID: 3753601057872674275, guid: 48d78ccbd3be61f49b594a5c55d07db4,
         type: 3}
@@ -4830,11 +5364,408 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5908797624154387503, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_LocomotionProvider
+      value: 
+      objectReference: {fileID: 1812954391}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Reference
+      value: 
+      objectReference: {fileID: -6131295136447488360, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Reference
+      value: 
+      objectReference: {fileID: -6395602842196007441, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Reference
+      value: 
+      objectReference: {fileID: -5982496924579745919, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_Reference
+      value: 
+      objectReference: {fileID: -2024308242397127297, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_Reference
+      value: 
+      objectReference: {fileID: 8248158260566104461, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Action.m_Id
+      value: 8e000d1c-13a4-4cc0-ad37-f2e125874399
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_Reference
+      value: 
+      objectReference: {fileID: 2464016903823916871, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Reference
+      value: 
+      objectReference: {fileID: 840156964685210860, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Action.m_Id
+      value: db89d01c-df6f-4954-b868-103dd5bdb514
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Action.m_Id
+      value: 3995f9f4-6aa7-409a-80d2-5f7ea1464fde
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_Action.m_Id
+      value: 8b170a9b-132e-486d-947e-6a244d4362ea
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_Action.m_Id
+      value: 080819c2-8547-4beb-8522-e6356be16fb1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_Reference
+      value: 
+      objectReference: {fileID: -1636515391019944688, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_Action.m_Id
+      value: b74fcfe3-d94d-4bf1-960a-364568ffe66b
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Action.m_Id
+      value: 22c1da5c-d38f-4253-a25c-fe94205f2ec5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_PositionAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotationAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_Reference
+      value: 
+      objectReference: {fileID: -335775248641796371, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Reference
+      value: 
+      objectReference: {fileID: 6558622148059887818, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIScrollAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_Reference
+      value: 
+      objectReference: {fileID: -8785819595477538065, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_Reference
+      value: 
+      objectReference: {fileID: -7363382999065477798, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_Action.m_Id
+      value: a45a321f-4e2e-479e-a3ab-da25a505e44e
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Reference
+      value: 
+      objectReference: {fileID: 71106601250685021, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Reference
+      value: 
+      objectReference: {fileID: -4289430672226363583, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleDeltaAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_Action.m_Id
+      value: f154653e-fb1f-4aa0-b5a4-b7541ef2cad9
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Action.m_Id
+      value: e015d020-ed5c-40b6-b968-fa9881521f0e
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_Reference
+      value: 
+      objectReference: {fileID: 684395432459739428, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_Action.m_Id
+      value: 3e09b626-c80d-40ec-9592-eb3fe89c2038
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_Action.m_Id
+      value: 3dca8766-e652-4e78-8406-420aa73ba338
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ScaleToggleAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Action.m_Id
+      value: 6258f0cd-e000-49ea-b3b6-7c930f12c390
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Action.m_Id
+      value: 492aea1c-7d58-4cb0-8e3c-257d2f651c04
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_HapticDeviceAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_RotateAnchorAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectActionValue.m_Action.m_Name
+      value: Select Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_Action.m_Id
+      value: f3874727-df53-4207-8cd4-6248164663d7
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_Reference
+      value: 
+      objectReference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TrackingStateAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressActionValue.m_Action.m_Name
+      value: UI Press Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateActionValue.m_Action.m_Name
+      value: Activate Action Value
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_Action.m_Id
+      value: e873605e-6a95-4389-8fbe-39069340ba92
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_TranslateAnchorAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_Reference
+      value: 
+      objectReference: {fileID: -8811388872089202044, guid: c348712bda248c246b8c49b3db54643f,
+        type: 3}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_SelectAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_UIPressAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_ActivateAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_Action.m_Id
+      value: 7d323aae-15a7-4c32-a2b9-0653cb108725
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_DirectionalAnchorRotationAction.m_UseReference
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_IsTrackedAction.m_Action.m_ExpectedControlType
+      value: Button
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 3753601057872674275, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1470160248}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1392835121119627238, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3870874130456083525}
   m_SourcePrefab: {fileID: 100100000, guid: 48d78ccbd3be61f49b594a5c55d07db4, type: 3}
+--- !u!1 &3870874130456083524 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1392835121119627238, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+    type: 3}
+  m_PrefabInstance: {fileID: 3870874130456083523}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3870874130456083525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870874130456083524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 296107021aeac334eb2560fc2732a900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _image: {fileID: 1630906933}
+  _animationCurveEnable:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.905214
+      outSlope: 0.905214
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.14501758
+    - serializedVersion: 3
+      time: 3
+      value: 1
+      inSlope: -0.068237096
+      outSlope: -0.068237096
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.34364507
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _animationCurveDisable:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0.046690445
+      outSlope: 0.046690445
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.20919682
+    - serializedVersion: 3
+      time: 3
+      value: 0
+      inSlope: -0.8978517
+      outSlope: -0.8978517
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.16309977
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _viewChande: 1
+  _animationDuration: 3
+  _currentDuraction: 0
+  _currentColor: {r: 0, g: 0, b: 0, a: 1}
+--- !u!4 &3870874130456083526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3753601057872674275, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+    type: 3}
+  m_PrefabInstance: {fileID: 3870874130456083523}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public abstract class Gun : MonoBehaviour
 {
+    [SerializeField] private LayerMask _layerMasks;
     [SerializeField] protected Transform _firePoint;
     [SerializeField] protected float _fireDistance;
     [SerializeField] protected float _timeSpan;
@@ -22,8 +23,9 @@ public abstract class Gun : MonoBehaviour
 
         Ray ray = new Ray(_firePoint.position, _firePoint.forward);
 
-        if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance))
+        if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance,_layerMasks))
         {
+            Debug.Log(hitInfo.collider.name);
             if (hitInfo.collider.TryGetComponent(out IDamageble component))
             {
                 component.damage();
@@ -49,12 +51,6 @@ public abstract class Gun : MonoBehaviour
         [SerializeField] private Rigidbody _rb;
     [SerializeField] private Vector3 _centerOfMass;
 
-    private void OnValidate()
-    {
-#if UNITY_EDITOR_WIN
-        _rb.centerOfMass = _centerOfMass;
-#endif
-    }
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;
