@@ -4949,7 +4949,7 @@ PrefabInstance:
     - target: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
         type: 3}
       propertyPath: m_MoveSpeed
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 464044474467599504, guid: 48d78ccbd3be61f49b594a5c55d07db4,
         type: 3}
@@ -5369,6 +5369,11 @@ PrefabInstance:
       propertyPath: m_LocomotionProvider
       value: 
       objectReference: {fileID: 1812954391}
+    - target: {fileID: 6276375943917466187, guid: 48d78ccbd3be61f49b594a5c55d07db4,
+        type: 3}
+      propertyPath: m_Timeout
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9178280145043212006, guid: 48d78ccbd3be61f49b594a5c55d07db4,
         type: 3}
       propertyPath: m_SelectAction.m_Reference
