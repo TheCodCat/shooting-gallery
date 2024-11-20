@@ -12,6 +12,7 @@ public abstract class Gun : MonoBehaviour
     [Header("Партиклы")]
     [SerializeField] protected ParticleSystem _particleSystem;
     [SerializeField] protected AudioSource _audioSource;
+    [SerializeField] protected ParticleSystem _particleSystemFirePoint;
     public virtual void Fire()
     {
         if (!_isFire) return;
@@ -25,10 +26,15 @@ public abstract class Gun : MonoBehaviour
 
         if (Physics.Raycast(ray, out RaycastHit hitInfo, _fireDistance,_layerMasks))
         {
+            _particleSystemFirePoint.transform.position = hitInfo.point;
+            _particleSystemFirePoint.transform.rotation = Quaternion.Euler(hitInfo.normal);
+            _particleSystemFirePoint.Play();
+
             Debug.Log(hitInfo.collider.name);
             if (hitInfo.collider.TryGetComponent(out IDamageble component))
             {
                 component.damage();
+
             }
         }
         IsFire().AsAsyncUnitUniTask();

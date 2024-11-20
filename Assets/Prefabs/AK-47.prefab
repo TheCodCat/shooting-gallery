@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3669007879269893981}
   - component: {fileID: 326823713056910950}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Audio Source
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +137,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2735990506447625202}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SecondAttach
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -171,7 +171,7 @@ GameObject:
   - component: {fileID: 6869748996623149653}
   - component: {fileID: 5463023587676162057}
   - component: {fileID: 8009013753611818821}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: AK-47
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -401,12 +401,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 213189f8a68bc6f499e14217598bc669, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _layerMasks:
+    serializedVersion: 2
+    m_Bits: 0
   _firePoint: {fileID: 6365985883752386765}
   _fireDistance: 50
   _timeSpan: 1
   _isFire: 1
   _particleSystem: {fileID: 1167984373238156819}
   _audioSource: {fileID: 326823713056910950}
+  _rb: {fileID: 0}
+  _centerOfMass: {x: 0, y: 0, z: 0}
 --- !u!1 &4225950424406892201
 GameObject:
   m_ObjectHideFlags: 0
@@ -416,7 +421,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6745026236136054764}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MainAttach
   m_TagString: Untagged
   m_Icon: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000, type: 0}
@@ -447,7 +452,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6365985883752386765}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FirePoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -534,6 +539,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FireParticle
       objectReference: {fileID: 0}
+    - target: {fileID: 1936375236394624341, guid: 1b4e5cb993dd0374f8d947db50d8f8dc,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -559,9 +569,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1852332947825181155}
     m_Modifications:
+    - target: {fileID: 1324608018887474, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1452442627303592, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 1487774384131766, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
       propertyPath: m_Name
       value: AK74
+      objectReference: {fileID: 0}
+    - target: {fileID: 1487774384131766, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1927369336514790, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4519716788627816, guid: ee329c3cd08e58645834d20702d7f6c6, type: 3}
       propertyPath: m_LocalPosition.x
