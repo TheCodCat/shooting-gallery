@@ -34,7 +34,11 @@ public abstract class Gun : MonoBehaviour
             if (hitInfo.collider.TryGetComponent(out IDamageble component))
             {
                 component.damage();
-
+            }
+            else if(hitInfo.collider.TryGetComponent(out Props props))
+            {
+                Vector3 force = hitInfo.point - _firePoint.position;
+                props.AddForce(force,hitInfo.point);
             }
         }
         IsFire().AsAsyncUnitUniTask();

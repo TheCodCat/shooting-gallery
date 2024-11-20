@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5231599361366511598}
   - component: {fileID: 7951191958363255255}
   - component: {fileID: 7583664469256121314}
+  - component: {fileID: 8499886302513185043}
   m_Layer: 7
   m_Name: Jug_01
   m_TagString: Untagged
@@ -134,7 +135,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &7583664469256121314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -287,3 +288,16 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &8499886302513185043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3956864845004347026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8189df257cae149b1839aab3b5394b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _rigibody: {fileID: 7951191958363255255}

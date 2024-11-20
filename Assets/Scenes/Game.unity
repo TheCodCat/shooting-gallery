@@ -386,6 +386,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -440,6 +445,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -551,6 +561,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -606,6 +621,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -625,6 +645,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -679,6 +704,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -961,6 +991,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1015,6 +1050,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1133,6 +1173,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1187,6 +1232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1293,6 +1343,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1347,6 +1402,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1557,6 +1617,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1611,6 +1676,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2166,6 +2236,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2220,6 +2295,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2405,6 +2485,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2459,6 +2544,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2570,6 +2660,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2624,6 +2719,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3209,6 +3309,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3263,6 +3368,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1035416625571639828, guid: 3b396fc2087ae534c9e4d20ea2d6430e, type: 3}
@@ -3362,6 +3472,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3417,6 +3532,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3436,6 +3556,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3490,6 +3615,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3754,6 +3884,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3808,6 +3943,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4930,6 +5070,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4984,6 +5129,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5307,6 +5457,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5362,6 +5517,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5405,6 +5565,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5459,6 +5624,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5565,6 +5735,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5620,6 +5795,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5639,6 +5819,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5693,6 +5878,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5873,6 +6063,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5927,6 +6122,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6248,6 +6448,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6302,6 +6507,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6677,6 +6887,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6732,6 +6947,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (92)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6763,6 +6983,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6817,6 +7042,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7764,6 +7994,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7818,6 +8053,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8215,6 +8455,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8269,6 +8514,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8375,6 +8625,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8429,6 +8684,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8614,6 +8874,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8668,6 +8933,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9729,6 +9999,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9783,6 +10058,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9889,6 +10169,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9943,6 +10228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10607,6 +10897,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10661,6 +10956,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10755,6 +11055,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10810,6 +11115,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10847,6 +11157,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10901,6 +11216,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11000,6 +11320,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11054,6 +11379,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11160,6 +11490,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11215,6 +11550,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11246,6 +11586,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11301,6 +11646,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11320,6 +11670,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11374,6 +11729,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11712,6 +12072,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11766,6 +12131,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12625,6 +12995,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12679,6 +13054,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13230,6 +13610,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13284,6 +13669,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13441,6 +13831,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13495,6 +13890,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13601,6 +14001,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13655,6 +14060,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13766,6 +14176,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13820,6 +14235,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14005,6 +14425,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14060,6 +14485,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14079,6 +14509,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14133,6 +14568,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14494,6 +14934,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14548,6 +14993,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15000,6 +15450,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15054,6 +15509,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16315,6 +16775,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16369,6 +16834,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16752,6 +17222,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16807,6 +17282,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16838,6 +17318,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16892,6 +17377,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17072,6 +17562,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17127,6 +17622,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17158,6 +17658,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17212,6 +17717,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17535,6 +18045,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17590,6 +18105,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17609,6 +18129,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17663,6 +18188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17938,6 +18468,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17992,6 +18527,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18098,6 +18638,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18152,6 +18697,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18637,6 +19187,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18692,6 +19247,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -18723,6 +19283,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18777,6 +19342,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19413,6 +19983,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19468,6 +20043,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19499,6 +20079,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19554,6 +20139,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19585,6 +20175,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19639,6 +20234,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19919,6 +20519,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19973,6 +20578,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20163,6 +20773,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20217,6 +20832,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20415,6 +21035,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20469,6 +21094,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21315,6 +21945,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21369,6 +22004,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21554,6 +22194,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21608,6 +22253,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21788,6 +22438,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21843,6 +22498,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21874,6 +22534,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21928,6 +22593,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22028,6 +22698,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22082,6 +22757,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22790,6 +23470,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22844,6 +23529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23042,6 +23732,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23097,6 +23792,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23128,6 +23828,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23182,6 +23887,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23277,6 +23987,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23332,6 +24047,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23363,6 +24083,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23417,6 +24142,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23523,6 +24253,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23578,6 +24313,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23609,6 +24349,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23663,6 +24408,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -23762,6 +24512,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23817,6 +24572,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -23848,6 +24608,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23902,6 +24667,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24805,6 +25575,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24859,6 +25634,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25130,6 +25910,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25184,6 +25969,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25669,6 +26459,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25723,6 +26518,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25908,6 +26708,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25963,6 +26768,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25994,6 +26804,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26048,6 +26863,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26338,6 +27158,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26392,6 +27217,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -26720,6 +27550,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26775,6 +27610,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Archery (98)
       objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26806,6 +27646,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -26860,6 +27705,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27162,6 +28012,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27216,6 +28071,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27396,6 +28256,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27450,6 +28315,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27561,6 +28431,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27615,6 +28490,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27752,6 +28632,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27806,6 +28691,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27998,6 +28888,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28052,6 +28947,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28163,6 +29063,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28217,6 +29122,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28390,6 +29300,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28444,6 +29359,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28782,6 +29702,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28836,6 +29761,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29108,6 +30038,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29162,6 +30097,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29431,6 +30371,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29485,6 +30430,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29541,6 +30491,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29595,6 +30550,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29775,7 +30735,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2033982499
 Transform:
@@ -30246,6 +31206,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30300,6 +31265,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30437,6 +31407,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30491,6 +31466,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30609,6 +31589,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30663,6 +31648,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31123,6 +32113,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2033982499}
     m_Modifications:
+    - target: {fileID: 4251325883654406412, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4692531925922266868, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31182,6 +32177,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Archery
+      objectReference: {fileID: 0}
+    - target: {fileID: 8385113027508729440, guid: 3b396fc2087ae534c9e4d20ea2d6430e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31315,6 +32315,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8596393461300810021, guid: 63596c72da8975f458881572a1d59ea1,
+        type: 3}
+      propertyPath: _layerMasks.m_Bits
+      value: 193
       objectReference: {fileID: 0}
     - target: {fileID: 8596393461300810021, guid: 63596c72da8975f458881572a1d59ea1,
         type: 3}
@@ -31596,7 +32601,7 @@ PrefabInstance:
     - target: {fileID: 8009013753611818821, guid: 3d20bacc6127ed84bae2363e2b8b343b,
         type: 3}
       propertyPath: _layerMasks.m_Bits
-      value: 65
+      value: 193
       objectReference: {fileID: 0}
     - target: {fileID: 8009013753611818821, guid: 3d20bacc6127ed84bae2363e2b8b343b,
         type: 3}
