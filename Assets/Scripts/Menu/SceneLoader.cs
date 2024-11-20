@@ -5,8 +5,8 @@ using Cysharp.Threading.Tasks;
 public class SceneLoader : MonoBehaviour
 {
     [SerializeField] private string _nameScene;
-    public async void GameLoading()
+    public async void GameLoading(string scenname)
     {
-        await SceneManager.LoadSceneAsync(_nameScene).ToUniTask();
+        await SceneManager.LoadSceneAsync(scenname).ToUniTask();
     }
 }

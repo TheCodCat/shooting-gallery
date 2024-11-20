@@ -9,8 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/TargetsWhile.unity
     guid: a62b6f50b5fdd754a98da11364ed2877
+  - enabled: 1
+    path: Assets/Scenes/Accuracy.unity
+    guid: 5e8ff08a8c3131144b8e93ddb63defeb
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5b3ced4484c42fa4998a48296bc38bda,
       type: 2}
